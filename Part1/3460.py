@@ -1,3 +1,4 @@
+# 이진수
 
 def Calculate(hex):
     RestList = []
