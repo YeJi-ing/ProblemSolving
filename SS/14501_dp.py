@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open("input.txt", 'r')
+#sys.stdin = open("input.txt", 'r')
 
 # 입력 받기
 N = int(input())
