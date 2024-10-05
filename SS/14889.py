@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open("input.txt", 'r')
+#sys.stdin = open("input.txt", 'r')
 
 def dfs(L, idx):
     # 1. 종료조건: N//2
