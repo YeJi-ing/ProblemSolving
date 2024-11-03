@@ -11,7 +11,7 @@ for i in range(N):
         if arr[i] % j == 0:
             non += 1
             break
-    if non == 0: # 소수
+    if arr[i]>1 and non == 0: # 소수
         ans += 1
 
 print(ans)
